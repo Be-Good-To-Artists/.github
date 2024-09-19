@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*Be Good* is a stealth startup project. 
+*BeeWyze* is making its first baby steps. 
 
 Let's just say that our mission is to help artists :
 
